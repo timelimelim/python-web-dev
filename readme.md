@@ -25,8 +25,3 @@ Upload Docker Image
 ```shell
 docker push timelimelim/python-web-dev:latest
 ```
-
-## References
-
- * Complie matplotlib in docker
-   * https://earthly.dev/blog/python-matplotlib-docker/
