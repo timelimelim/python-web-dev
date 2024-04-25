@@ -19,3 +19,4 @@ kaleido
 matplotlib
 marshmallow
 gunicorn
+jsonschema
